@@ -43,8 +43,8 @@ html,body{
 
   .form_field{
       border: 0;
-      border-bottom: 2px solid gray;
-      font-family: inherit;
+      border-bottom: 2px solid lightgray;
+      color: gray;
       
 
 
